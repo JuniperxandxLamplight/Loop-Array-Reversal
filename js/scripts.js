@@ -11,8 +11,8 @@ $(function(){
       };
     };
 
-    longArray.reverse();
-    alert(longArray);
+    longArray.reverse()
+    alert(longArray.join(" "));
 
   });
 });
